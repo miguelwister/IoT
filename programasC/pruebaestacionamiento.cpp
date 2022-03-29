@@ -1,4 +1,4 @@
-//Examen 3er parcial PAMELA WISTER CASTA„EDA EJERCICIO 1
+//Examen 3er parcial PAMELA WISTER CASTAï¿½EDA EJERCICIO 1
 
 #include<iostream>
 #include<iomanip>
@@ -22,7 +22,8 @@ float calculaCargo(float t)
 int main()
 {
     float t1,t2,t3;
-
+    cout<<"HOLA Bienvenido estacionamiento PAJARITOS";
+    cout<<"\n";
     cout<<"Ingresa tiempos de los automoviles respectivamente: ";
     cin>>t1>>t2>>t3;
     cout<<"\n";
