@@ -1,4 +1,5 @@
-//Examen 3er parcial PAMELA WISTER CASTA�EDA EJERCICIO 1
+//Examen 3er parcial PAMELA WISTER CASTANEDA EJERCICIO 1
+// 29 marzo 2022 15:40
 
 #include<iostream>
 #include<iomanip>
