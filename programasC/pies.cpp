@@ -15,7 +15,6 @@ int main() {
     cout << "\\t" << i << "\\t" << c;
     cout << endl;
   }
-
   return 0;
 }
 }
