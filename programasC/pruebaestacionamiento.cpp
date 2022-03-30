@@ -1,5 +1,6 @@
 //Examen 3er parcial PAMELA WISTER CASTANEDA EJERCICIO 1
-// 29 marzo 2022 15:43
+// 29 marzo 2022 20.04
+
 
 #include<iostream>
 #include<iomanip>
@@ -23,12 +24,12 @@ float calculaCargo(float t)
 int main()
 {
     float t1,t2,t3;
-    cout<<"HOLA Bienvenido estacionamiento PAJARITOS";
+    cout<<"HOLA - Bienvenido estacionamiento PAJARITOS -";
     cout<<"\n";
     cout<<"Ingresa tiempos de los automoviles respectivamente: ";
     cin>>t1>>t2>>t3;
     cout<<"\n";
-
+    cout<<"\n";
     cout<<"El pago del primero auto es de "<<calculaCargo(t1);
     cout<<"\n";
     cout<<"El pago del segundo auto es de "<<calculaCargo(t2);
