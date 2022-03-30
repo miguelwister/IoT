@@ -14,6 +14,6 @@ int main()
      cout<<" "<<enteroPotencia<<endl;
      cout<<"\n";
 
-     TIENE QUE USAR FOR O WHILE
+     //TIENE QUE USAR FOR O WHILE
 return 0;
 }
