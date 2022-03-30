@@ -1,5 +1,5 @@
 //Examen 3er parcial PAMELA WISTER CASTANEDA EJERCICIO 1
-// 29 marzo 2022 20.04
+// 29 marzo 2022 20.12
 
 
 #include<iostream>
