@@ -1,4 +1,4 @@
-//Examen 3er parcial PAMELA WISTER CASTA„EDA EJERCICIO 1
+//Examen 3er parcial PAMELA WISTER CASTANEDA EJERCICIO 1
 
 #include<iostream>
 #include<iomanip>
