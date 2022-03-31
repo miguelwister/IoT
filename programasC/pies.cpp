@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
+// 29 marzo 2022
+=======
+// 14:55
+>>>>>>> Stashed changes
+
 #include <iostream>
 #define pies 3.28
 
 using namespace std;
+
 
 int main() {
   int i;
@@ -15,7 +22,6 @@ int main() {
     cout << "\\t" << i << "\\t" << c;
     cout << endl;
   }
-
   return 0;
 }
 }
