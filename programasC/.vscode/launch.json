@@ -5,12 +5,12 @@
     //    ${workspaceFolder}/a.out.
     "version": "0.2.0",
     "configurations": [
-        
         {
             "name": "(lldb) Adjuntar",
             "type": "cppdbg",
             "request": "attach",
-            "program":"Documentos/GitHub/IoT/programasC/bin/$main",
+            "program":"${fileDirname}${main.out",
+         //   "program":"${fileDirname}/bin/$main.out",
             "processId": "${command:pickProcess}",
             "MIMode": "lldb"
         }
