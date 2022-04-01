@@ -13,13 +13,13 @@
         "MIMode": "gdb",
         "setupCommands": [
 		{
-			"description”: “Enable pretty-printing for gob",
-			"text”: “-enable-pretty printing",
+			"description": "Enable pretty-printing for gob",
+			"text": "-enable-pretty printing",
 			"ignoreFailures": true
 		},
 		{
-			"description”: “Set Disasembñy Flavor to Intel",
-			"text”: “-gdb-set disassembly-flavor intel",
+			"description": "Set Disasembñy Flavor to Intel",
+			"text": "-gdb-set disassembly-flavor intel",
 			"ignoreFailures": true
 		}
         ]
