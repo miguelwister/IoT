@@ -5,24 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Attach by Process ID",
-        //    "processId": "${command:PickProcess}",
-            "processId": "${command:pickProcess}",
-            "request": "attach",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "type": "node"
-        },
-        
-        
-
-        {
             "name": "(lldb) Adjuntar",
             "type": "cppdbg",
             "request": "attach",
-          //  "program":"${fileDirname}/main.out",
-            "program":"${fileDirname}/bin/${main}",
+            "program":"${fileDirname}/main.out",
+          //  "program":"${fileDirname}/bin/${main}",
             "processId": "${command:pickProcess}",
             "MIMode": "lldb"
         }
