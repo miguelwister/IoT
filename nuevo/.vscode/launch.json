@@ -6,7 +6,8 @@
     "configurations": [
     
         {
-            "configurations": [
+            "configurations": 
+        [
         
         
             {
@@ -21,7 +22,7 @@
                 "externalConsole": false,
                 "MIMode": "gdb",
                 "setupCommands": 
-                  [
+             [
                 {
                     "description": "Enable pretty-printing for gob",
                     "text": "-enable-pretty printing",
@@ -32,11 +33,11 @@
                     "text": "-gdb-set disassembly-flavor intel",
                     "ignoreFailures": true
                 }
-               ]
+             ]
             }
         ]
         }
 
-
+    }
         
 
