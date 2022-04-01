@@ -1,12 +1,12 @@
 {
     "configurations": [
 
+
     {
-        "name": "(lldb) Iniciar",
+        "name": "(lldb) Launch",
         "type": "cppdbg",
         "request": "launch",
-    //    "program": "Escriba el nombre del programa; por ejemplo, ${workspaceFolder}/a.out.",
-        "program": "${fileDirname}/bin/${fileBasenameNoExtension",
+        "program": "${fileDirname}/bin/${fileBasenameNoExtension}",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
