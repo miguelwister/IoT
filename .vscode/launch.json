@@ -8,8 +8,8 @@
             "name": "(lldb) Adjuntar",
             "type": "cppdbg",
             "request": "attach",
-          //  "program":"${fileDirname}/main.out",
-            "program":"${fileDirname}/bin/${main}",
+            "program":"${fileDirname}/main.out",
+          //  "program":"${fileDirname}/bin/${main}",
             "processId": "${command:pickProcess}",
             "MIMode": "lldb"
         }
