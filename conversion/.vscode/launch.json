@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch",
+            "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/bin/${fileBasenameNoExtension}",
@@ -18,12 +18,12 @@
             "setupCommands": 
             [
                 {
-                    "description": "Enable pretty-printing for gob",
-                    "text": "-enable-pretty printing",
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
                 "ignoreFailures": true
                 },
                 {
-                    "description": "Set Disasembñy Flavor to Intel",
+                    "description": "Set Disasembly Flavor to Intel",
                     "text": "-gdb-set disassembly-flavor intel",
                     "ignoreFailures": true
                 }
