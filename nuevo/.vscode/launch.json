@@ -5,7 +5,7 @@
   "version": "0.2.0",
   "configurations": [
       {
-          "name": "(gdb) Launch",
+          "name": "(lldb) Launch",
          "type": "cppdbg",
        //   "type": "lldb-mi",
           "request": "launch",
