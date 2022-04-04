@@ -1,7 +1,7 @@
-./aot#include <stdio.h>
+#include <stdio.h>
 
 int main () {
 
-printf ("Hello World Magivo Disney\n");
+printf ("Hello World Magico Disney\n");
 return 0;
 }
