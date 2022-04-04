@@ -1,4 +1,4 @@
-#include <stdio.h>
+./aot#include <stdio.h>
 
 int main () {
 
