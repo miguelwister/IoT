@@ -2,6 +2,6 @@
 
 int main () {
 
-printf ("Hello World Magico Disney World Florida USA\n");
+printf ("Hello Magic World\n");
 return 0;
 }
