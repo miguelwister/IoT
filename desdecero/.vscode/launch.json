@@ -23,7 +23,7 @@
                     "ignoreFailures": true
                     },
                     {
-                        "description": "Set Disasembñy Flavor to Intel",
+                        "description": "Set Disasembly Flavor to Intel",
                         "text": "-gdb-set disassembly-flavor intel",
                         "ignoreFailures": true
                     }
