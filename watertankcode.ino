@@ -1,5 +1,5 @@
 /*
- * Programación del nodo sensor cisterna 
+ * Programación del nodo sensor tinaco
  * Por: Equipo 5 
  * Integrantes: Alejandro Alejandro Carrillo, Ernesto Rafael Leon Cornelio y Miguel Antonio Wister Ovando
  * Fecha: 04 de agosto de 2022
